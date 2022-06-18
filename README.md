@@ -1,3 +1,3 @@
 # FreeWin
 
-FreeWin is Windows 1, 2, 3, and 4 clones for FreeDOS (Windows 5 (XP) no longer supports DOS)
+FreeWin is a Windows 1.0-4.0 compatible clone for FreeDOS (Windows 5 (XP) no longer supports DOS)
